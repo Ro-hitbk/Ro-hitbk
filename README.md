@@ -69,7 +69,7 @@
 
 ###
 
-## 📊 Competitive Programming Stats
+## Competitive Programming Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/hit_Ro?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
