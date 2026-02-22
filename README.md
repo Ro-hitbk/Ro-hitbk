@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/gwW4p3z_jbkAAAAC/takumi-chilling.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/gwW4p3z_jbkAAAAM/takumi-chilling.gif"  />
 
 ###
 
@@ -71,13 +71,13 @@
 ### LeetCode Contest Performance
 
 <div align="center">
-  <img height="180" src="https://leetcode-shield.herokuapp.com/?username=hit_Ro" alt="LeetCode Stats" />
+  <img height="180" src="https://leetcard.jacoblin.cool/hit_Ro?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ### Codeforces Contest Performance
 
 <div align="center">
-  <img height="180" src="https://codeforces-readme-statistics.vercel.app/api?username=Rohitbk&theme=dark" alt="Codeforces Stats" />
+  <img height="180" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rohitbk&theme=github_dark&show_icons=true" alt="Codeforces Stats" />
 </div>
 
 ###
