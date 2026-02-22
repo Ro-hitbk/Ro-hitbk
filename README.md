@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/a4/a9/95/a4a995d7f3aef44025339ad5f7d0fb3e.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
@@ -70,10 +70,14 @@
 
 ### LeetCode
 
-![LeetCode Stats](https://leetcode-badge.classname.tech/hit_Ro/python-frontend)
+[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-hit__Ro-FFA500?style=flat-square&logo=leetcode)](https://leetcode.com/hit_Ro/)
+
+![LeetCode Stats](https://lc-card.vercel.app/hit_Ro)
 
 ### Codeforces
 
-![Codeforces Stats](https://codeforces.com/api/user.ratingHistogram?handle=Rohitbk)
+[![Codeforces](https://img.shields.io/badge/Codeforces_Profile-Rohitbk-1f8acb?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Rohitbk)
+
+![Codeforces Stats](https://codeforces-readme-statistics.vercel.app/api?username=Rohitbk)
 
 ###
