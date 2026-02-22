@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/gwW4p3z_jbkAAAAC/takumi-chilling.gif"  />
 
 ###
 
@@ -68,16 +68,16 @@
 
 ## 📊 Competitive Programming Stats
 
-### LeetCode
+### LeetCode Contest Performance
 
-[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-hit__Ro-FFA500?style=flat-square&logo=leetcode)](https://leetcode.com/hit_Ro/)
+<div align="center">
+  <img height="180" src="https://leetcode-shield.herokuapp.com/?username=hit_Ro" alt="LeetCode Stats" />
+</div>
 
-![LeetCode Stats](https://lc-card.vercel.app/hit_Ro)
+### Codeforces Contest Performance
 
-### Codeforces
-
-[![Codeforces](https://img.shields.io/badge/Codeforces_Profile-Rohitbk-1f8acb?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Rohitbk)
-
-![Codeforces Stats](https://codeforces-readme-statistics.vercel.app/api?username=Rohitbk)
+<div align="center">
+  <img height="180" src="https://codeforces-readme-statistics.vercel.app/api?username=Rohitbk&theme=dark" alt="Codeforces Stats" />
+</div>
 
 ###
