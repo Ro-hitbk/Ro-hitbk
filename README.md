@@ -34,7 +34,7 @@
 
 ###
 
-<table>
+<table align="right">
   <tr>
     <td valign="middle">
       <a href="https://www.linkedin.com/in/rohit-bk/" target="_blank">
