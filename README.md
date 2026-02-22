@@ -34,21 +34,24 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/gwW4p3z_jbkAAAAM/takumi-chilling.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rohit-bk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://leetcode.com/hit_Ro/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" height="35" alt="leetcode"  />
-  </a>
-  <a href="https://codeforces.com/profile/Rohitbk" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f45?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="codeforces"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/rohit-bk/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      </a><br/><br/>
+      <a href="https://leetcode.com/hit_Ro/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" height="35" alt="leetcode" />
+      </a><br/><br/>
+      <a href="https://codeforces.com/profile/Rohitbk" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-445f45?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="codeforces" />
+      </a>
+    </td>
+    <td valign="middle" align="right">
+      <img height="150" src="https://media.tenor.com/gwW4p3z_jbkAAAAM/takumi-chilling.gif" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -68,16 +71,10 @@
 
 ## 📊 Competitive Programming Stats
 
-### LeetCode Contest Performance
-
 <div align="center">
-  <img height="180" src="https://leetcard.jacoblin.cool/hit_Ro?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-</div>
-
-### Codeforces Contest Performance
-
-<div align="center">
-  <img height="180" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rohitbk&theme=github_dark&show_icons=true" alt="Codeforces Stats" />
+  <img src="https://leetcard.jacoblin.cool/hit_Ro?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  &nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rohitbk&theme=github_dark" alt="Codeforces Stats" />
 </div>
 
 ###
