@@ -73,10 +73,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="400">
+    <td align="center" valign="center" width="400">
       <img width="350" src="https://leetcard.jacoblin.cool/hit_Ro?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
     </td>
-    <td align="center" valign="top" width="400">
+    <td align="center" valign="center" width="400">
       <img width="350" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rohitbk&theme=github_dark" alt="Codeforces Stats" />
     </td>
   </tr>
